@@ -4,7 +4,7 @@ autowork的使用的权限是windows登陆用户的权限，推荐在域环境�
 autowork操作界面分为三大区域：目标区域、功能区域和结果区域。该工具测试过批量更新600+的服务器zabbix agent，只有10台左右的服务器出现更新失败的情况，在操作大量服务器时非常便利。更多的使用帮助请见resource目录的help文档。<br>
 
 工具操作界面如下：<br>
-![](https://github.com/qwsddn/autowork/blob/master/raw/windows.jp)<br>
+![](https://github.com/qwsddn/autowork/blob/master/raw/windows.jpg)<br>
 ![](https://github.com/qwsddn/autowork/blob/master/raw/linux.jpg)<br>
 ![](https://github.com/qwsddn/autowork/blob/master/raw/netpolicy.jpg)<br>
 ![](https://github.com/qwsddn/autowork/blob/master/raw/win_website.jpg)<br>
